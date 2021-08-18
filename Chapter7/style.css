@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  padding: 20px;
+}
+
+.main-visual-text {
+  color: #8a8a8a;
+}
+
+main {
+  width: 840px;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.content-item {
+  width: 840px;
+  padding: 30px;
+  border-bottom: 1px solid #acabab;
+}
+
+.explanation {
+  color: #acabab;
+}
